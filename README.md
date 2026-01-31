@@ -17,8 +17,8 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by:B.C.PRAVALIKA
-RegisterNumber:25018550  
+Developed by:PRAKASH V
+RegisterNumber:25018527  
 */
 
 import pandas as pd
@@ -75,8 +75,7 @@ print("Final bias (b):",b)
 ```
 
 ## Output:
-<img width="907" height="371" alt="Screenshot 2026-01-31 090935" src="https://github.com/user-attachments/assets/38b01b2f-bb16-41af-a42a-5cc5e67ddaad" />
-
+![alt text](<Screenshot 2026-01-31 090935.png>)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
